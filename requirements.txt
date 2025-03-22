@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+langchain-community
+uuid
